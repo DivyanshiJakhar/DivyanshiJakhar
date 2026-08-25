@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshijakhar&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshijakhar" /> </p>
 
-- 🌱 I’m currently learning **React JS, DSA**
+- 🌱 I’m currently exploring **Cloud Platforms**
 
-- 🔭 I'm currently working on **Weather project**
+- 🔭 I'm currently working on **Prediction Models**
 
 - 📫 How to reach me **divyanshijakhar24@gmail.com**
 
-- ⚡ Fun fact **I like to sketch :)**
+- ⚡ Fun fact **I like to interact :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
